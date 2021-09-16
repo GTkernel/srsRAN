@@ -1,7 +1,7 @@
 # srsRAN
 
 [srsRAN](https://www.srslte.com) is the open source software LTE radio suite developed by Software Radio System (SRS).
-It original README is at [here](https://github.com/GTKernel/srslte/blob/master/OFFICIAL_README.md). 
+It original README is at [here](https://github.com/GTKernel/srsRAN/blob/master/OFFICIAL_README.md). 
 This README shows you the customized implementation and deployment for our internal usecases with USRPs.
 
 ## How to start 
